@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: Try ChatProtein
+        url: http://enders.ai.cloudbastion.cn/#/enders-ai-copilot
     design:
       css_class: dark
       background:
@@ -63,20 +63,11 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
   - block: collection
-    id: talks
+    id: awards
     content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
+      title: Some awards
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...

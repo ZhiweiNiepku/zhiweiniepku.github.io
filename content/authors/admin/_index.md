@@ -45,8 +45,12 @@ interests:
 education:
   - area: PhD Artificial Intelligence
     institution: Peking University
-    date_start: 2022-09-01
-    date_end: 2026-07-01
+  - area: Master Artificial Intelligence
+    institution: Peking University
+  - area: Bachelor 
+    institution: Dalian University of Technology
+
+
 
 
 
@@ -61,7 +65,7 @@ awards:
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2022-12-01'
     awarder: Association for Computing Machinery
-    icon: 🎖
+    icon: 🏆
     summary: |
       The Gordon Bell Prize is awarded each year to recognize outstanding achievement in high-performance computing. The purpose of the award is to track the progress over time of parallel computing, with particular emphasis on rewarding innovation in applying high-performance computing to applications in science, engineering, and large-scale data analytics.
 
@@ -69,26 +73,26 @@ awards:
     url: https://onlinelibrary.wiley.com/
     date: '2023-03-01'
     awarder: Wiley
-    icon: 🎖
+    icon: 🏆
   
   - title: Journal of Materials Informatics - Best Paper Award Second Place
     url: https://www.oaepublish.com/jmi
     date: '2023-01-01'
     awarder: Journal of Materials Informatics
-    icon: 🎖
+    icon: 🏆
  
   - title: Top Ten Students of 2023 - by the National Engineering Research Center for Video and Vision Technology
     url: https://idm.pku.edu.cn/info/1012/1779.htm
     date: '2023-11-01'
     awarder: Peking University
-    icon: 🎖
+    icon: 🏆
 
   - title: Director's Scholarship - Pengcheng National Laboratory's highest student honor
     date: '2023-11-01'
     awarder: Pengcheng National Laboratory
-    icon: 🎖
+    icon: 🏆
 ---
 
 ## About Me
 
-Zhiwei Nie is a PhD student in computer science jointly trained by Peking University and Pengcheng National Laboratory. His research interests include AI for Science, LLM, and protein design. He is a core member of the AI-driven biomedical platform "Pengcheng Shennong".
+Zhiwei Nie is a PhD student in computer science jointly trained by Peking University and Pengcheng National Laboratory. His research interests include AI for Science, LLM, and protein design. He is the core member of the AI-driven biomedical platform "Pengcheng Shennong" and LLM-driven protein design platform "ChatProtein Copilot".
