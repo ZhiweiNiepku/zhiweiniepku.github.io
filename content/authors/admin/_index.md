@@ -11,7 +11,7 @@ last_name: Nie
 
 # Status emoji
 status:
-  icon: 😜
+  icon: 😄
 
 # Is this the primary user of the site?
 superuser: true
@@ -43,9 +43,9 @@ interests:
   - Protein design
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD 
     institution: Peking University
-  - area: Master Artificial Intelligence
+  - area: Master
     institution: Peking University
   - area: Bachelor 
     institution: Dalian University of Technology
@@ -62,7 +62,7 @@ education:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: 2022 ACM Gordon Bell Special Prize Finalist
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    url: https://news.pku.edu.cn/jxky/90d276ae5f8441849fd04372fd872154.htm
     date: '2022-12-01'
     awarder: Association for Computing Machinery
     icon: 🏆
