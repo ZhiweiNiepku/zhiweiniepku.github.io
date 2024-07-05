@@ -10,7 +10,7 @@ main:
   - name: Papers
     url: /#papers
     weight: 11
-- name: ChatProtein Copilot
+  - name: ChatProtein Copilot
     url: chatprotein/
     weight: 40
   - name: Projects
