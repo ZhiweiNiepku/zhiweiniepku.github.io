@@ -1,13 +1,9 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+title: SARS-CoV-2_mutation_simulation
+date: 2022-12-01
+external_link: https://github.com/ZhiweiNiepku/SARS-CoV-2_mutation_simulation
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+ACM Gordon Bell COVID Finalist
 
 <!--more-->

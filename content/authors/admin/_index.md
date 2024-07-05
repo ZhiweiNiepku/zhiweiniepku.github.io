@@ -95,4 +95,4 @@ awards:
 
 ## About Me
 
-Zhiwei Nie is a PhD student in computer science jointly trained by Peking University and Pengcheng National Laboratory. His research interests include AI for Science, LLM, and protein design. He is the core member of the AI-driven biomedical platform "Pengcheng Shennong" and LLM-driven protein design platform "ChatProtein Copilot".
+Zhiwei Nie is a PhD student in artificial intelligence jointly trained by Peking University and Pengcheng National Laboratory. His research interests include AI for Science, LLM, and protein design. He is the core member of the AI-driven biomedical platform "Pengcheng Shennong" and LLM-driven protein design platform "ChatProtein Copilot".

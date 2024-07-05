@@ -1,13 +1,10 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+title: S3AI
+date: 2024-03-01
+external_link: https://github.com/stau-7001/S3AI
+
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Interpretable antibody-antigen interaction prediction by introducing route and priors guidance.
 
 <!--more-->
