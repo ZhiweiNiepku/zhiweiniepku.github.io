@@ -10,6 +10,9 @@ main:
   - name: Papers
     url: /#papers
     weight: 2
+  - name: Awards
+    url: /#awards
+    weight: 3
   - name: Projects
     url: projects/
-    weight: 3
+    weight: 4
