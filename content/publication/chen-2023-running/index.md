@@ -5,7 +5,7 @@ authors:
 - admin
 
 date: "2023-07-01T00:00:00Z"
-doi: "https://doi.org/10.1177/109434202311880"
+#doi: "https://doi.org/10.1177/109434202311880"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-07-06T00:00:00Z"
@@ -31,7 +31,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 
 url_code: 'https://github.com/ZhiweiNiepku/SARS-CoV-2_mutation_simulation'
 url_dataset: ''
 url_poster: ''
@@ -63,12 +63,3 @@ projects:
 #slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
