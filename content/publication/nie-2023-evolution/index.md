@@ -13,9 +13,8 @@ authors:
 - Yu Wang 
 - ' others'
 
-Nie, Zhiwei and Liu, Xudong and Chen, Jie and Wang, Zhennan and Liu, Yutian and Si, Haorui and Dong, Tianyi and Xu, Fan and Song, Guoli and Wang, Yu and others
 
-date: "2024-06-01T00:00:00Z"
+date: "2024-06-01"
 #doi: "https://doi.org/10.1177/109434202311880"
 
 # Schedule page publish date (NOT publication's date).
