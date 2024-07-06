@@ -69,7 +69,7 @@ awards:
     summary: |
       The Gordon Bell Prize is the highest-level award in the field of high-performance computing applications, known as the "Nobel Prize in Supercomputing Applications".
 
-  - title: Top Ten Students of 2023 - National Engineering Research Center for Video and Vision Technology
+  - title: Top Ten Students of 2023 - National Engineering Research Center for Visual Technology
     url: https://idm.pku.edu.cn/info/1012/1779.htm
     date: '2023-11-01'
     awarder: Peking University

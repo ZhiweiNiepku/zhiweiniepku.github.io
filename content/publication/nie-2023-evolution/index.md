@@ -1,7 +1,19 @@
 ---
 title: "E2VD: a unified evolution-driven framework for virus variation drivers prediction"
 authors:
-- admin
+- Zhiwei Nie
+- Xudong Liu
+- Jie Chen
+- Zhennan Wang
+- Yutian Liu
+- Haorui Si
+- Tianyi Dong
+- Fan Xu
+- Guoli Song
+- Yu Wang 
+- ' others'
+
+Nie, Zhiwei and Liu, Xudong and Chen, Jie and Wang, Zhennan and Liu, Yutian and Si, Haorui and Dong, Tianyi and Xu, Fan and Song, Guoli and Wang, Yu and others
 
 date: "2024-06-01T00:00:00Z"
 #doi: "https://doi.org/10.1177/109434202311880"

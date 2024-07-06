@@ -2,7 +2,17 @@
 title: "Running ahead of evolution—AI-based simulation for predicting future high-risk
   SARS-CoV-2 variants"
 authors:
-- admin
+- Jie Chen
+- Zhiwei Nie
+- Yu Wang
+- Kai Wang
+- Fan Xu
+- Zhiheng Hu
+- Bing Zheng
+- Zhennan Wang
+- Guoli Song
+- Jingyi Zhang 
+- ' others'
 
 date: "2023-07-01T00:00:00Z"
 #doi: "https://doi.org/10.1177/109434202311880"
@@ -31,7 +41,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: - content/publication/chen-2023-running/IJHPCA.pdf
 url_code: 'https://github.com/ZhiweiNiepku/SARS-CoV-2_mutation_simulation'
 url_dataset: ''
 url_poster: ''
