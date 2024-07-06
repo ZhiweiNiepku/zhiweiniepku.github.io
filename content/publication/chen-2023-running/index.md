@@ -14,7 +14,7 @@ authors:
 - Jingyi Zhang 
 - ' others'
 
-date: "2023-07-01T00:00:00Z"
+date: "2023-07-01"
 #doi: "https://doi.org/10.1177/109434202311880"
 
 # Schedule page publish date (NOT publication's date).
