@@ -61,7 +61,7 @@ education:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 2022 ACM Gordon Bell Special Prize Finalist
+  - title: 2022 ACM Gordon Bell Special Prize Finalist (only three finalists in the world, the only one from China)
     url: https://news.pku.edu.cn/jxky/90d276ae5f8441849fd04372fd872154.htm
     date: '2022-12-01'
     awarder: Association for Computing Machinery
