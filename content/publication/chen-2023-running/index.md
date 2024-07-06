@@ -1,5 +1,5 @@
 ---
-title: "Running ahead of evolution—AI-based simulation for predicting future high-risk
+title: "ACM Gordon Bell Special Prize Finalist - Running ahead of evolution—AI-based simulation for predicting future high-risk
   SARS-CoV-2 variants"
 authors:
 - Jie Chen
@@ -41,7 +41,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: - content/publication/chen-2023-running/IJHPCA.pdf
+url_pdf: 'https://github.com/ZhiweiNiepku/SARS-CoV-2_mutation_simulation/blob/main/IJHPCA_online.pdf'
 url_code: 'https://github.com/ZhiweiNiepku/SARS-CoV-2_mutation_simulation'
 url_dataset: ''
 url_poster: ''
