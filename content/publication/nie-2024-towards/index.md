@@ -17,5 +17,5 @@ date: '2024-05-01'
 publishDate: '2024-07-06T05:04:18.672224Z'
 publication_types:
 - article-journal
-publication: '*bioRxiv*'
+publication: '*Cell Systems (under peer review)*'
 ---
