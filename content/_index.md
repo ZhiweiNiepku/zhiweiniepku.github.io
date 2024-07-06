@@ -55,7 +55,8 @@ sections:
 
 
   - block: resume-awards
+    id: awards
     content:
-      title: Awards
+      title: Some Awards
       username: admin
 ---
