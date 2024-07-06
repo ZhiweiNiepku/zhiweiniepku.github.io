@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Try ChatProtein
+        text: Try ChatProtein Copilot
         url: http://enders.ai.cloudbastion.cn/#/enders-ai-copilot
     design:
       css_class: dark
@@ -84,11 +84,8 @@ sections:
         padding: [0, 0, 0, 0]
 
 
-    - block: resume-awards
-    content:
-      title: Awards
-      username: admin
-      
+
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

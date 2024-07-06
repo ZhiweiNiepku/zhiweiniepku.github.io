@@ -67,7 +67,18 @@ awards:
     awarder: Association for Computing Machinery
     icon: 🏆
     summary: |
-      The Gordon Bell Prize is awarded each year to recognize outstanding achievement in high-performance computing. The purpose of the award is to track the progress over time of parallel computing, with particular emphasis on rewarding innovation in applying high-performance computing to applications in science, engineering, and large-scale data analytics.
+      The Gordon Bell Prize is the highest-level award in the field of high-performance computing applications, known as the "Nobel Prize in Supercomputing Applications".
+
+  - title: Top Ten Students of 2023 - National Engineering Research Center for Video and Vision Technology
+    url: https://idm.pku.edu.cn/info/1012/1779.htm
+    date: '2023-11-01'
+    awarder: Peking University
+    icon: 🏆
+
+  - title: Director's Scholarship - Pengcheng National Laboratory's highest student honor
+    date: '2023-11-01'
+    awarder: Pengcheng National Laboratory
+    icon: 🏆
 
   - title: Wiley - Top Downloaded Article
     url: https://onlinelibrary.wiley.com/
@@ -79,17 +90,6 @@ awards:
     url: https://www.oaepublish.com/jmi
     date: '2023-01-01'
     awarder: Journal of Materials Informatics
-    icon: 🏆
- 
-  - title: Top Ten Students of 2023 - by the National Engineering Research Center for Video and Vision Technology
-    url: https://idm.pku.edu.cn/info/1012/1779.htm
-    date: '2023-11-01'
-    awarder: Peking University
-    icon: 🏆
-
-  - title: Director's Scholarship - Pengcheng National Laboratory's highest student honor
-    date: '2023-11-01'
-    awarder: Pengcheng National Laboratory
     icon: 🏆
 ---
 
